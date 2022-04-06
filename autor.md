@@ -2,13 +2,13 @@
 
 Preencha os dados abaixo para identificar a autoria do trabalho.
 
-- Nome: *\<__insira seu nome aqui__>*
-- Email: *\<insira seu email aqui>*
-- Turma: *\<insira sua turma aqui>*
+- Nome: *\<__Daniel Luan Lourenço de Lima__>*
+- Email: *\<daniel.lourenco.711@ufrn.edu.br>*
+- Turma: *\<T03>*
 
 # Questões Finalizadas
 
-- [ ] Negativos 5
+- [✅] Negativos 5
 - [ ] Soma Vizinhos
 - [ ] Intervalos
 - [ ] Fibonacci
