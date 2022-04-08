@@ -6,9 +6,9 @@ std::vector<unsigned int> fib_below_n( unsigned int n )
 
     // TODO: Isto é apenas um STUB. Troque o retorno pelo que você julgar correto.
     std::vector<unsigned int> fibs;
-    unsigned int fib1 = 0;
-    unsigned int fib2 = 1;
-    unsigned int fib3 = 0;
+     int fib1 = 0;
+     int fib2 = 1;
+     int fib3 = 0;
 
     fibs.push_back(fib2);
 
