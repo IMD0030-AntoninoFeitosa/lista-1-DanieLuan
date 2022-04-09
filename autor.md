@@ -13,10 +13,10 @@ Preencha os dados abaixo para identificar a autoria do trabalho.
 - [x] Intervalos
 - [x] Fibonacci
 - [x] Minmax
-- [ ] Inverter
+- [x] Inverter
 - [ ] Filtragem
-- [ ] Ponto em Retângulo 1
-- [ ] Ponto em Retângulo 2
+- [x] Ponto em Retângulo 1
+- [x] Ponto em Retângulo 2
 
 
 --------
