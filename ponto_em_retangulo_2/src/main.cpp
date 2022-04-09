@@ -21,7 +21,22 @@ using std::max;
 
 int main(void)
 {
-    // TODO: Adicione aqui seu código.
-
+    location_t location;
+    Ponto IE, SD, P;
+    while(cin >> std::ws >> IE.x >> IE.y >> SD.x >> SD.y >> P.x >> P.y){
+        location = pt_in_rect(IE, SD, P);
+        if(location == BORDER){
+            cout << "border" << endl;
+        }
+        else if(location == INSIDE){
+            cout << "inside" << endl;
+        }
+        else if(location == OUTSIDE){
+            cout << "outside" << endl;
+        }
+        else if(location == INVALID){
+            cout << "invalid" << endl;
+        }
+    }
     return 0;
 }
