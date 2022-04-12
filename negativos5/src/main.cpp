@@ -6,12 +6,12 @@ const int SIZE = 5; // input size.
 
 int main(void)
 {
-    int vet[SIZE];
+    int num;
     int neg = 0;
 
     for(int i = 0; i < SIZE; i++){
-        cin >> vet[i];
-        if(vet[i] < 0){
+        cin >> num;
+        if(num < 0){
             neg++;
         }
     }

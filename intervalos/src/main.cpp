@@ -10,19 +10,16 @@ using std::cin;
 using std::endl;
 #include <iomanip>
 using std::setprecision;
+#include <vector>
 
 // Se desejar, crie funções aqui, antes do main().
 
 int main(void){
 
     int x;
-    double range[5];
+    std::vector<double> range{0, 0, 0, 0, 0};
 
-    range[0] = 0;
-    range[1] = 0;
-    range[2] = 0;
-    range[3] = 0;
-    range[4] = 0;
+
 
     while(cin >> std::ws >> x){
         if(x >= 0 && x < 25){ //Ver isso depois!
